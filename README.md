@@ -3,7 +3,7 @@
 # Opa, eu sou o Anderson 👋
 
 - 👀 Sou estudante de Design de Mídias Digitais pela FATEC. Tenho interesse na área de desenvolvimento front-end
-- 🌱 Estou me dedicado ao aprendizado de HTML, CSS e Javascript
+- 🌱 Estou me dedicando ao aprendizado de HTML, CSS e Javascript
 - 💞️ Procuro por uma oportunidade de estágio para solidifcar meus conhecimentos e evoluir como desenvolvedor Front-end
 - 📫 Você pode me encontrar aqui:
   <br>
