@@ -7,4 +7,4 @@
 -  Estou me dedicando ao aprendizado de JavaScript e React.
 -  Ah, você pode me encontrar aqui:
   <br>
-<a href="https://www.linkedin.com/in/anderson-rodriguesdev/" target="_blank"> ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/anderson-rodriguesdev/" target="_blank"> ![img](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
