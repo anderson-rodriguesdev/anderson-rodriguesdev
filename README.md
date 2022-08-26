@@ -2,7 +2,7 @@
 
 # Opa, eu sou o Anderson 👋
 
-- Sou desenvolvedor Front-End e estudante de Design de Mídias Digitais pela FATEC.
+- Sou desenvolvedor Front-End e estudante de Engenharia de Software na UNINTER.
 - Aqui no Github você vai encontrar os projetos que venho desenvolvendo ao longo dos meus estudos. Dá uma olhadinha 😉
 - Estou me dedicando ao aprendizado de JavaScript e React.
 - Ah, você pode me encontrar aqui:<br><br>
